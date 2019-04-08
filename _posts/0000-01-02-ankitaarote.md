@@ -2,7 +2,7 @@
 	
 	layout: slide
 	
-	title: "Welcome to GIT HUB!"
+	title: " GIT HUB!"
 	
 	---
 	
